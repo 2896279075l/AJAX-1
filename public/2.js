@@ -1,0 +1,1 @@
+console.log('2.js运行成功');
